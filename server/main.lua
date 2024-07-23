@@ -10,7 +10,7 @@ local function login(name, message, color)
             ["title"] = name,
             ["description"] = message,
             ["footer"] = {
-                ["text"] = "GammaV Logger"
+                ["text"] = "GammaScript Logger"
             },
         }
     }
@@ -24,7 +24,7 @@ local function chat(name, message, color)
             ["title"] = name,
             ["description"] = message,
             ["footer"] = {
-                ["text"] = "GammaV Logger"
+                ["text"] = "GammaScript Logger"
             },
         }
     }
